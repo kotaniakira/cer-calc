@@ -1,3 +1,0 @@
-mode,count,valid_count,total_distance,total_ref_len,micro_cer,macro_cer
-char,40,40,542,714,0.7591,0.7153
-kana,40,40,613,882,0.6950,0.6427
